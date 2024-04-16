@@ -11,8 +11,10 @@
 Задание 2
 Установите поддержку LUKS.
 
- ![image](https://github.com/Dryid1984/ELK/assets/152690390/5564c0e8-271e-419e-87e2-4527bfce69ea)
-![image](https://github.com/Dryid1984/ELK/assets/152690390/c942df26-3381-4554-ba97-84a620395f0f)
+
+![image](https://github.com/Dryid1984/ELK/assets/152690390/37f1306d-2294-46d9-ac32-0c92fa8a0b77)
+
 
 Создайте небольшой раздел, например, 100 Мб.
 Зашифруйте созданный раздел с помощью LUKS.
+![image](https://github.com/Dryid1984/ELK/assets/152690390/753250aa-b4cb-404c-9410-4e60684ab783)
